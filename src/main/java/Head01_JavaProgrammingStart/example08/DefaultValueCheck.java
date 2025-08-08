@@ -10,5 +10,4 @@ public class DefaultValueCheck {
             System.out.println("strings[0] : " + strings[0]); // null
         }
     }
-}
 
